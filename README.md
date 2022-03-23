@@ -1,1 +1,2 @@
-# blogs.bgjx.githublogging site
+# blogs.bgjx.github
+blogging site
